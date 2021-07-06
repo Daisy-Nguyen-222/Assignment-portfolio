@@ -1,10 +1,6 @@
-# COMP2200/COMP6200-S2-2020 Data Science Portfolio @ Macquarie University
+# Data Science Portfolio
 
 ## Portfolio projects
-
-**Student name**: Thi Thu Huong Nguyen
-
-**Student ID**: 45841101
 
 ## Portfolio 1
 In this portfolio, Cycling and weather data were analysed. 
