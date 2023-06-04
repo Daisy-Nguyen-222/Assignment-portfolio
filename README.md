@@ -1,6 +1,6 @@
 # Data Science Portfolio  
 
-## Portfolio projects
+## Portfolio projects   
 
 ## Portfolio 1
 In this portfolio, Cycling and weather data were analysed. 
